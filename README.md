@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29059673/README.md)
 # 🔐 Liquid Vault
 
 A modern offline-first digital vault for storing passwords, private notes, and sensitive information securely on your own device.
