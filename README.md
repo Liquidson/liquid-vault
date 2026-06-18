@@ -1,8 +1,16 @@
 # 🔐 Liquid Vault
 
+![Liquid Vault Banner](https://raw.githubusercontent.com/Liquidson/liquid-vault/main/assets/banners/Liquid%20Vault%20banner.png)
+
 A modern offline-first digital vault for storing passwords, private notes, and sensitive information securely on your own device.
 
 No cloud. No accounts. No tracking.
+
+---
+
+## 🚀 Live Demo
+
+🌐 https://liquidson.github.io/liquid-vault/
 
 ---
 
@@ -25,17 +33,21 @@ Your data stays on your device. Always.
 
 ## 🖼 Visual Overview
 
+### Application Logo
+
+![Liquid Vault Logo](https://raw.githubusercontent.com/Liquidson/liquid-vault/main/assets/logo/Liquid%20Vault%20logo.png)
+
 ### Security Architecture
 
-![Security Architecture](assets/infographics/01-security-architecture.png)
+![Security Architecture](https://raw.githubusercontent.com/Liquidson/liquid-vault/main/assets/infographics/Liquidvault%20infographics-1.png)
 
 ### Feature Overview
 
-![Feature Overview](assets/infographics/02-feature-overview.png)
+![Feature Overview](https://raw.githubusercontent.com/Liquidson/liquid-vault/main/assets/infographics/Liquidvault%20infographics-2.png)
 
 ### Privacy First
 
-![Privacy First](assets/infographics/03-privacy-first.png)
+![Privacy First](https://raw.githubusercontent.com/Liquidson/liquid-vault/main/assets/infographics/Liquidvault%20infographics-3.png)
 
 ---
 
@@ -95,16 +107,6 @@ No third-party access.
 
 ---
 
-## 📸 Screenshots
-
-![Login Screen](assets/screenshots/login-screen.png)
-
-![Dashboard](assets/screenshots/dashboard.png)
-
-![Vault](assets/screenshots/vault-screen.png)
-
----
-
 ## 🗺 Roadmap
 
 ### Version 0.2
@@ -131,6 +133,16 @@ No third-party access.
 
 ## 👨‍💻 Author
 
-Saman Motie
+**Saman Motie**
 
 GitHub: https://github.com/Liquidson
+
+Website: https://liquidson.github.io/liquid-vault/
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star on GitHub.
+
+It helps the project grow and motivates future development.
